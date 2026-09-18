@@ -4,7 +4,7 @@
  * @LastEditTime: 2026-07-07 22:52:47
  * @Description: Two Sum
  */
-package leetcode_100.Easy;
+package leetcode_100.easy;
 
 import java.util.ArrayList;
 import java.util.Collection;

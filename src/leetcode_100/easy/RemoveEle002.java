@@ -1,4 +1,4 @@
-package leetcode_100.Easy;
+package leetcode_100.easy;
 
 // 移除元素
 // https://leetcode.cn/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150
