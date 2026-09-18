@@ -9,7 +9,7 @@ package leetcode_100.Easy;
 import java.util.ArrayList;
 import java.util.Collection;
 
-public class twe_sum {
+public class TwoSum {
   public static void main(String[] args){
     int[] arr = {2, 7, 11, 15};
     int target = 9;
