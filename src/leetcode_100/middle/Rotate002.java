@@ -1,4 +1,4 @@
-package leetcode_100.Middle;
+package leetcode_100.middle;
 
 // 轮转数组
 // https://leetcode.cn/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150

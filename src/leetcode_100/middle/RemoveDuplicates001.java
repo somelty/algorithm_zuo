@@ -1,4 +1,4 @@
-package leetcode_100.Middle;
+package leetcode_100.middle;
 
 public class RemoveDuplicates001 {
 	
